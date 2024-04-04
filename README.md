@@ -9,6 +9,14 @@
   </ul>
 </body>
 
+<h2>📖 CERTIFIED 📖</h2>
+<body>
+  <ul>
+    <li><a href="https://coursera.org/share/b17c6819fd2c6379902c1433ad34fab4"> IBM :Microsoft Windows Defender and Firewall for Beginners</a></li>
+  </ul>
+</body>
+
+
 <h4>SOCIAL MEDIA</h4>
 <a href=https://www.instagram.com/felipe_tant>
   <img src="main 1.png" alt="Instagram" title="Instagram" width="25" height="25" /> </a>
