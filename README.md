@@ -9,6 +9,14 @@
   </ul>
 </body>
 
+<h2>📈 SKILLS 📈</h2>
+<body>
+  <ul>
+    <li>MIRCROSOFT WINDOWS DEFENDER</li>
+    <li>WINDOWS FIREWALL</li>
+  </ul>
+</body>
+
 <h2>📖 CERTIFIED 📖</h2>
 <body>
   <ul>
