@@ -10,5 +10,11 @@
 </body>
 
 <h4>SOCIAL MEDIA</h4>
-  <img src="main1.jpg" alt="Instagram" title="Twitter" width="25" height="25" />
+<a href=https://www.instagram.com/felipe_tant>
+  <img src="main 1.png" alt="Instagram" title="Instagram" width="25" height="25" /> </a>
 
+<a href=https://www.linkedin.com/in/felipe-quinteroinca>
+  <img src="main 2.png" alt="Linkedin" title="Linkedin" width="25" height="25" /> </a>
+
+<a href=https://www.tiktok.com/@felipequinteroinc>
+  <img src="main 3.png" alt="TikTok" title="TikTok" width="25" height="25" /> </a>
