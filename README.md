@@ -1,5 +1,5 @@
 ## WELLCOME TO THIS HACK JOURNEY!!🖥️
-<h1>HI ALL, I AM WORKING ON!!</h1>👷‍♂️
+<h1>HI ALL, I AM WORKING ON!!👷</h1>
 
 <!--
 **FelipeINCA/FelipeINCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
