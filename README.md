@@ -9,6 +9,6 @@
   </ul>
 </body>
 
-<a href="https://twitter.com/danielhendricks/">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" />
-</a>
+<h4>SOCIAL MEDIA</h4>
+  <img src="main1.jpg" alt="Instagram" title="Twitter" width="25" height="25" />
+
