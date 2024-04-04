@@ -12,7 +12,7 @@
 <h2>📈 SKILLS 📈</h2>
 <body>
   <ul>
-    <li>MIRCROSOFT WINDOWS DEFENDER</li>
+    <li>MICROSOFT WINDOWS DEFENDER</li>
     <li>WINDOWS FIREWALL</li>
   </ul>
 </body>
