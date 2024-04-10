@@ -15,6 +15,8 @@
   <ul>
     <li>MICROSOFT WINDOWS DEFENDER</li>
     <li>WINDOWS FIREWALL</li>
+    <li>SETUP MALWARE ANALYSIS LAB</li>
+    <li>MALWARE TEST ANALYSIS WITH VIRTUAL MACHINES</li>
   </ul>
 </body>
 
