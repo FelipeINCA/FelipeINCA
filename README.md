@@ -13,19 +13,21 @@
 </body>
 
 <h2>${\textsf{\color{green}📈 SKILLS 📈}}$</h2>
-<body>
-  <ul>
-    <li>INFOSEC</li>
-    <li>FIREWALL</li>
-    <li>MALWARE ANALYSIS</li>
-    <li>TROUBLESHOOTING</li>
-    <li>MICROSOFT WINDOWS DEFENDER</li>
-    <li>PYTHON</li>
-    <li>SQL</li>
-    <li>SIEM</li>
-    <li>IDS/IPS</li>
-  </ul>
-</body>
+<table>
+  <tr>
+    <th>INFOSEC</th>
+    <th>FIREWALL</th>
+    <th>MALWARE ANALYSIS</th>
+    <th>TROUBLESHOOTING</th>
+    <th>MICROSOFT WINDOWS DEFENDER</th>
+   
+   <tr>
+    <th>PYTHON</th>
+    <th>SQL</th>
+    <th>SIEM</th>
+    <th>IDS/IPS</th>
+  </tr>
+</table>
 
 <h2>${\textsf{\color{green}📖 CERTIFIED 📖}}$</h2>
 <body>
