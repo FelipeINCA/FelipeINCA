@@ -20,6 +20,10 @@
     <li>MALWARE ANALYSIS</li>
     <li>TROUBLESHOOTING</li>
     <li>MICROSOFT WINDOWS DEFENDER</li>
+    <li>PYTHON</li>
+    <li>SQL</li>
+    <li>SIEM</li>
+    <li>IDS/IPS</li>
   </ul>
 </body>
 
