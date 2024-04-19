@@ -3,7 +3,7 @@
 # WELLCOME TO THIS HACK JOURNEY!!🖥️
 <h2>WORKING ON!!👷</h2>
 
-<h2>${/color{green}🦾 PROJECTS 🦾}$</h2>
+<h2>${\textsf{\color{green}🦾 PROJECTS 🦾}}$</h2>
 <body>
   <ul>
  <li><a href="http://www.github.com/FelipeINCA/MICROSOFTWINDOWSDEFENDER">MICROSOFT WINDOWS DEFENDER AND FIREWALL FOR BEGGINERS</a></li>
@@ -12,7 +12,7 @@
   </ul>
 </body>
 
-<h2>📈 SKILLS 📈</h2>
+<h2>${\textsf{\color{green}📈 SKILLS 📈}}$</h2>
 <body>
   <ul>
     <li>MICROSOFT WINDOWS DEFENDER</li>
@@ -22,7 +22,7 @@
   </ul>
 </body>
 
-<h2>📖 CERTIFIED 📖</h2>
+<h2>${\textsf{\color{green}📖 CERTIFIED 📖}}$</h2>
 <body>
   <ul>
     <li><a href="https://coursera.org/share/b17c6819fd2c6379902c1433ad34fab4"> IBM :Microsoft Windows Defender and Firewall for Beginners</a></li>
