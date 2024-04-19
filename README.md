@@ -15,10 +15,11 @@
 <h2>${\textsf{\color{green}📈 SKILLS 📈}}$</h2>
 <body>
   <ul>
+    <li>INFOSEC</li>
+    <li>FIREWALL</li>
+    <li>MALWARE ANALYSIS</li>
+    <li>TROUBLESHOOTING</li>
     <li>MICROSOFT WINDOWS DEFENDER</li>
-    <li>WINDOWS FIREWALL</li>
-    <li>SETUP MALWARE ANALYSIS LAB</li>
-    <li>MALWARE TEST ANALYSIS WITH VIRTUAL MACHINES</li>
   </ul>
 </body>
 
